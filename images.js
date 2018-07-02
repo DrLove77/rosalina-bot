@@ -23,6 +23,10 @@ var images = [
     file: 'Akairiot_5.jpg',
     source: 'Credit: Akairiot'
   },
+      {
+    file: 'Akairiot_6.jpg',
+    source: 'Credit: Akairiot'
+  },
     {
     file: 'AngelDranger_1.png',
     source: 'Credit: AngelDranger'
@@ -176,7 +180,7 @@ var images = [
     source: 'Credit: CosmikArts'
   },
     {
-    file: 'Crabbu_1.jpg',
+    file: 'Crabbu_1.png',
     source: 'Credit: Crabbu'
   },
     {
@@ -480,7 +484,7 @@ var images = [
     source: 'Credit: Logan Cure'
   },
     {
-    file: 'Logan Cure_1.jpg',
+    file: 'Logan Cure_2.jpg',
     source: 'Credit: Logan Cure'
   },
     {
@@ -504,7 +508,7 @@ var images = [
     source: 'Credit: Luminaura'
   },
     {
-    file: 'ma2acworks_1.png',
+    file: 'ma2acworks_1.jpg',
     source: 'Credit: ma2acworks'
   },
       {
@@ -542,6 +546,10 @@ var images = [
          {
     file: 'MelonBread-sama_1.png',
     source: 'Credit: MelonBread-sama'
+  },
+           {
+    file: 'minus8_1.png',
+    source: 'Credit: minus8'
   },
          {
     file: 'Mimibert_1.png',
@@ -1300,7 +1308,7 @@ var images = [
     source: 'Credit: くろりん'
   },
             {
-    file: 'くろりん_8.jpg',
+    file: 'くろりん_8.png',
     source: 'Credit: くろりん'
   },
             {
@@ -1416,7 +1424,7 @@ var images = [
     source: 'Credit: しろみそ'
   },
 {
-    file: 'せ"そ_1.jpg',
+    file: 'せ"そ_1.png',
     source: 'Credit: せ"そ'
   },
 {
@@ -1532,7 +1540,7 @@ var images = [
     source: 'Credit: よも - YM'
   },
 {
-    file: 'リコ_1.jpg',
+    file: 'リコ_1.png',
     source: 'Credit: リコ'
   },
 {
@@ -1676,7 +1684,7 @@ var images = [
     source: 'Credit: 森清士郎'
   },
     {
-    file: '森清士郎_1.jpg',
+    file: '森清士郎_2.jpg',
     source: 'Credit: 森清士郎'
   },
     {
