@@ -53,3 +53,5 @@ function upload_random_image(images){
 }
 
 upload_random_image(images);
+
+process.exit(1);
