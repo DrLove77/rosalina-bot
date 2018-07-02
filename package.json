@@ -1,13 +1,14 @@
 {
-  "name": "rosalina-bot",
+  "name": "node-js-getting-started",
   "version": "0.3.0",
-  "description": "Bot that sends Rosalina pics to Twitter",
+  "description": "A sample Node.js app using Express 4",
   "engines": {
     "node": "8.9.1"
   },
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
+    "test": "node test.js"
   },
   "dependencies": {
     "ejs": "^2.5.6",
@@ -19,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://dashboard.heroku.com/apps/rosalina-bot"
+    "url": "https://github.com/heroku/node-js-getting-started"
   },
   "keywords": [
     "node",
     "heroku",
-    "pictures"
+    "express"
   ],
   "license": "MIT"
 }
