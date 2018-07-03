@@ -304,10 +304,6 @@ var images = [
     source: 'Credit: GΞО ΞXΞ'
   },
     {
-    file: 'GΞО ΞXΞ_4.jpg',
-    source: 'Credit: GΞО ΞXΞ'
-  },
-    {
     file: 'GΞО ΞXΞ_5.jpg',
     source: 'Credit: GΞО ΞXΞ'
   },
@@ -836,7 +832,7 @@ var images = [
     source: 'Credit: Poe'
   },
         {
-    file: 'Poe_222.jpg',
+    file: 'Poe_22.jpg',
     source: 'Credit: Poe'
   },
         {
@@ -906,10 +902,6 @@ var images = [
         {
     file: 'Rawb (WindPriest)_1.png',
     source: 'Credit: Rawb (WindPriest)'
-  },
-        {
-    file: 'Razalor-Art_1.png',
-    source: 'Credit: Razalor-Art'
   },
         {
     file: 'Reagan Long_1.jpg',
@@ -1332,10 +1324,6 @@ var images = [
     source: 'Credit: くろりん'
   },
             {
-    file: 'くろりん_14.jpg',
-    source: 'Credit: くろりん'
-  },
-            {
     file: 'くろりん_15.jpg',
     source: 'Credit: くろりん'
   },
@@ -1450,10 +1438,6 @@ var images = [
 {
     file: 'ナギ_1.jpg',
     source: 'Credit: ナギ'
-  },
-{
-    file: 'バイトン_1.png',
-    source: 'Credit: バイトン'
   },
 {
     file: 'ハナサキ_1.jpg',
