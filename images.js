@@ -244,42 +244,6 @@ var images = [
     source: 'Credit: gebyy-terar'
   },
     {
-    file: 'Ghiraham-Sandwich_1.jpg',
-    source: 'Credit: Ghiraham-Sandwich'
-  },
-    {
-    file: 'Ghiraham-Sandwich_2.jpg',
-    source: 'Credit: Ghiraham-Sandwich'
-  },
-    {
-    file: 'Ghiraham-Sandwich_3.png',
-    source: 'Credit: Ghiraham-Sandwich'
-  },
-    {
-    file: 'Ghiraham-Sandwich_4.png',
-    source: 'Credit: Ghiraham-Sandwich'
-  },
-    {
-    file: 'Ghiraham-Sandwich_5.png',
-    source: 'Credit: Ghiraham-Sandwich'
-  },
-    {
-    file: 'Ghiraham-Sandwich_6.jpg',
-    source: 'Credit: Ghiraham-Sandwich'
-  },
-    {
-    file: 'Ghiraham-Sandwich_7.png',
-    source: 'Credit: Ghiraham-Sandwich'
-  },
-    {
-    file: 'Ghiraham-Sandwich_8.jpg',
-    source: 'Credit: Ghiraham-Sandwich'
-  },
-    {
-    file: 'Ghiraham-Sandwich_9.jpg',
-    source: 'Credit: Ghiraham-Sandwich'
-  },
-    {
     file: 'gigidigi_1.png',
     source: 'Credit: gigidigi'
   },
