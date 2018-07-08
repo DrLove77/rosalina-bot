@@ -92,10 +92,6 @@ var images = [
     source: 'Credit: bellhenge'
   },
     {
-    file: 'bellhenge_3.jpg',
-    source: 'Credit: bellhenge'
-  },
-    {
     file: 'bellhenge_4.jpg',
     source: 'Credit: bellhenge'
   },
@@ -356,10 +352,6 @@ var images = [
     source: 'Credit: Invidiata'
   },
     {
-    file: 'Invidiata_3.png',
-    source: 'Credit: Invidiata'
-  },
-    {
     file: 'Ipun_1.png',
     source: 'Credit: Ipun'
   },
@@ -492,10 +484,6 @@ var images = [
     source: 'Credit: Mantareyes'
   },
          {
-    file: 'Maruuki_1.png',
-    source: 'Credit: Maruuki'
-  },
-         {
     file: 'MarxForever_1.jpg',
     source: 'Credit: MarxForever'
   },
@@ -573,7 +561,7 @@ var images = [
   },
     {
     file: 'Nidavellir Studios_1.png',
-    source: 'Credit: Nidavellir Studios_1'
+    source: 'Credit: Nidavellir Studios'
   },
     {
     file: 'Nintendo_1.png',
@@ -836,10 +824,6 @@ var images = [
     source: 'Credit: Poe'
   },
         {
-    file: 'Poe_32.jpg',
-    source: 'Credit: Poe'
-  },
-        {
     file: 'Poe_33.jpg',
     source: 'Credit: Poe'
   },
@@ -874,10 +858,6 @@ var images = [
         {
     file: 'Reza Kabir_1.jpg',
     source: 'Credit: Reza Kabir'
-  },
-        {
-    file: 'Robaato_1.png',
-    source: 'Credit: Robaato'
   },
         {
     file: 'Robaato_3.jpg',
@@ -968,10 +948,6 @@ var images = [
     source: 'Credit: spacesmilodon'
   },
         {
-    file: 'Spencer-Bowen_1.jpg',
-    source: 'Credit: Spencer-Bowen'
-  },
-        {
     file: 'SplashBrush_1.jpg',
     source: 'Credit: SplashBrush'
   },
@@ -1052,12 +1028,8 @@ var images = [
     source: 'Credit: TheSkyWaker'
   },
         {
-    file: 'Titou-Epsilon_1.png',
-    source: 'Credit: Titou-Epsilon'
-  },
-        {
     file: 'yasaikakiage_1.jpg',
-    source: 'Credit: Akairiot'
+    source: 'Credit: yasaikakiage'
   },
         {
     file: 'yasaikakiage_2.png',
@@ -1241,10 +1213,6 @@ var images = [
   },
             {
     file: 'くろりん_2.jpg',
-    source: 'Credit: くろりん'
-  },
-            {
-    file: 'くろりん_3.jpg',
     source: 'Credit: くろりん'
   },
             {
