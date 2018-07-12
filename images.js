@@ -36,10 +36,6 @@ var images = [
     source: 'Credit: AshleyZombieArts'
   },
     {
-    file: 'Ashyperson_1.png',
-    source: 'Credit: Ashyperson'
-  },
-    {
     file: 'AthenaWyrm.png',
     source: 'Credit: AthenaWyrm'
   },
@@ -49,10 +45,6 @@ var images = [
   },
     {
     file: 'At-Leon_1.png',
-    source: 'Credit: At-Leon'
-  },
-    {
-    file: 'At-Leon_2.jpg',
     source: 'Credit: At-Leon'
   },
     {
@@ -208,10 +200,6 @@ var images = [
     source: 'Credit: Estevangel'
   },
     {
-    file: 'Felielle_1.png',
-    source: 'Credit: Felielle'
-  },
-    {
     file: 'Felielle_2.png',
     source: 'Credit: Felielle'
   },
@@ -308,10 +296,6 @@ var images = [
     source: 'Credit: GΞО ΞXΞ'
   },
     {
-    file: 'GΞО ΞXΞ_16.jpg',
-    source: 'Credit: GΞО ΞXΞ'
-  },
-    {
     file: 'Halphelt_1.png',
     source: 'Credit: Halphelt'
   },
@@ -362,10 +346,6 @@ var images = [
     {
     file: 'ishmam_1.png',
     source: 'Credit: ishmam'
-  },
-    {
-    file: 'jadenkaiba_1.png',
-    source: 'Credit: jadenkaiba'
   },
     {
     file: 'Jazzy-Book_1.jpg',
@@ -880,10 +860,6 @@ var images = [
     source: 'Credit: Saiba (Henrietta)'
   },
         {
-    file: 'sally (luna-arts)_1.png',
-    source: 'Credit: sally (luna-arts)'
-  },
-        {
     file: 'SarukaiWolf_1.png',
     source: 'Credit: SarukaiWolf'
   },
@@ -1001,7 +977,7 @@ var images = [
   },
         {
     file: 'T-3000_1.png',
-    source: 'Credit: T-3000_1'
+    source: 'Credit: T-3000'
   },
         {
     file: 'Takkikun_1.jpg',
@@ -1334,10 +1310,6 @@ var images = [
     {
     file: 'サイトウニガミ_1.jpg',
     source: 'Credit: サイトウニガミ'
-  },
-{
-    file: 'ジロ_1.jpg',
-    source: 'Credit: ジロ'
   },
 {
     file: 'しろみそ_1.png',
