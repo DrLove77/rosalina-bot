@@ -198,7 +198,7 @@ var images = [
   {
 	  file: 'Didi Esmeralda_1.jpg'
 	  source: 'Credit: Didi Esmeralda'
-  }
+  },
     {
     file: 'dodedes_1.gif',
     source: 'Credit: dodedes'
