@@ -4,10 +4,6 @@ var images = [
     source: 'Credit: Akairiot'
   },
   {
-    file: 'Akairiot_2.jpg',
-    source: 'Credit: Akairiot'
-  },
-  {
     file: 'Akairiot_3.png',
     source: 'Credit: Akairiot'
   },
@@ -500,10 +496,6 @@ var images = [
     source: 'Credit: Miranda Yeo'
   },
     {
-    file: 'missjibun_1.png',
-    source: 'Credit: missjibun'
-  },
-    {
     file: 'missjibun_2.png',
     source: 'Credit: missjibun'
   },
@@ -988,6 +980,10 @@ var images = [
     source: 'Credit: TheSkyWaker'
   },
           {
+    file: 'TheSkyWaker_2.png',
+    source: 'Credit: TheSkyWaker'
+  },
+          {
     file: 'ToasterKiwi_1.png',
     source: 'Credit: ToasterKiwi'
   },
@@ -1061,7 +1057,7 @@ var images = [
   },
         {
     file: 'あおみどろ_1.png',
-    source: 'Credit: あおみどろ_1'
+    source: 'Credit: あおみどろ'
   },
         {
     file: 'あずま_1.jpg',
@@ -1101,7 +1097,7 @@ var images = [
   },
             {
     file: 'エレノア_1.png',
-    source: 'Credit: エレノア_1'
+    source: 'Credit: エレノア'
   },
             {
     file: 'えろ豆_1.jpg',
@@ -1445,7 +1441,7 @@ var images = [
   },
 {
     file: '倉地みづき_1.png',
-    source: 'Credit: 倉地みづき_1'
+    source: 'Credit: 倉地みづき'
   },
 {
     file: '冷凍ぬかづけ_1.jpg',
