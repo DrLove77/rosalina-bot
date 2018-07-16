@@ -108,10 +108,6 @@ var images = [
     source: 'Credit: Bunnyneq'
   },
     {
-    file: 'cassetterecorder_1.png',
-    source: 'Credit: cassetterecorder'
-  },
-    {
     file: 'CausticCrayon_1.jpg',
     source: 'Credit: CausticCrayon'
   },
