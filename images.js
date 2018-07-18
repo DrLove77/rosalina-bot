@@ -179,10 +179,6 @@ var images = [
     file: 'Daniela (CuteyTCat)_1.jpg',
     source: 'Credit: Daniela (CuteyTCat)'
   },
-  {
-	  file: 'Didi Esmeralda_1.jpg'
-	  source: 'Credit: Didi Esmeralda'
-  },
     {
     file: 'dodedes_1.gif',
     source: 'Credit: dodedes'
