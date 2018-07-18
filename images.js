@@ -40,11 +40,11 @@ var images = [
     source: 'Credit: At-Leon'
   },
     {
-    file: 'AwesomeEriX_1.jpg',
+    file: 'AwesomeEriX_1.jpeg',
     source: 'Credit: AwesomeEriX'
   },
     {
-    file: 'AwesomeEriX_2.jpg',
+    file: 'AwesomeEriX_2.jpeg',
     source: 'Credit: AwesomeEriX'
   },
     {
@@ -179,10 +179,10 @@ var images = [
     file: 'Daniela (CuteyTCat)_1.jpg',
     source: 'Credit: Daniela (CuteyTCat)'
   },
-  /*{
+  {
 	  file: 'Didi Esmeralda_1.jpg'
 	  source: 'Credit: Didi Esmeralda'
-  }, */
+  },
     {
     file: 'dodedes_1.gif',
     source: 'Credit: dodedes'
@@ -224,7 +224,7 @@ var images = [
     source: 'Credit: Ge-B'
   },
     {
-    file: 'gebyy-terar_1.jpg',
+    file: 'gebyy-terar_1.jpeg',
     source: 'Credit: gebyy-terar'
   },
     {
@@ -460,7 +460,7 @@ var images = [
     source: 'Credit: Mantareyes'
   },
          {
-    file: 'MarxForever_1.jpg',
+    file: 'MarxForever_1.jpeg',
     source: 'Credit: MarxForever'
   },
          {
@@ -512,7 +512,7 @@ var images = [
     source: 'Credit: Mu-'
   },
     {
-    file: 'Nadirnek_1.jpg',
+    file: 'Nadirnek_1.jpeg',
     source: 'Credit: Nadirnek'
   },
     {
@@ -904,7 +904,7 @@ var images = [
     source: 'Credit: SplashBrush'
   },
         {
-    file: 'SplashBrush_5.jpg',
+    file: 'SplashBrush_5.jpeg',
     source: 'Credit: SplashBrush'
   },
         {
@@ -1810,7 +1810,7 @@ var images = [
     {
     file: '黒牛_1.jpg',
     source: 'Credit: 黒牛'
-  }
+  } 
 ];
 
 module.exports = images;
