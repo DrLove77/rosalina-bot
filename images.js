@@ -1707,10 +1707,6 @@ var images = [
     source: 'Credit: 匙'
   },
     {
-    file: '南野あき(POO)の絵_1.png',
-    source: 'Credit: 南野あき(POO)の絵'
-  },
-    {
     file: '卯月_1.png',
     source: 'Credit: 卯月'
   },
