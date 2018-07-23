@@ -228,19 +228,11 @@ var images = [
     source: 'Credit: Grantake'
   },
     {
-    file: 'GΞО ΞXΞ_1.png',
-    source: 'Credit: GΞО ΞXΞ'
-  },
-    {
     file: 'GΞО ΞXΞ_5.jpg',
     source: 'Credit: GΞО ΞXΞ'
   },
     {
     file: 'GΞО ΞXΞ_6.jpg',
-    source: 'Credit: GΞО ΞXΞ'
-  },
-    {
-    file: 'GΞО ΞXΞ_8.png',
     source: 'Credit: GΞО ΞXΞ'
   },
     {
@@ -529,10 +521,6 @@ var images = [
   },
     {
     file: 'Nintendo_1.png',
-    source: 'Credit: Nintendo'
-  },
-    {
-    file: 'Nintendo_2.png',
     source: 'Credit: Nintendo'
   },
     {
@@ -1151,10 +1139,6 @@ var images = [
     file: 'きくどん_2.jpg',
     source: 'Credit: きくどん'
   },
-            {
-    file: 'きくどん_3.jpg',
-    source: 'Credit: きくどん'
-  },
               {
     file: 'くろすけ_1.jpg',
     source: 'Credit: くろすけ'
@@ -1221,7 +1205,7 @@ var images = [
   },
     
   
-
+i
             {
     file: 'くろりん_1.jpg',
     source: 'Credit: くろりん'
