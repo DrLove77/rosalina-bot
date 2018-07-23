@@ -519,7 +519,7 @@ var images = [
     file: 'Nidavellir Studios_1.png',
     source: 'Credit: Nidavellir Studios'
   },
-    {
+   /* {
     file: 'Nintendo_1.png',
     source: 'Credit: Nintendo'
   },
@@ -622,7 +622,7 @@ var images = [
     {
     file: 'Nintendo_27.gif',
     source: 'Credit: Nintendo'
-  },
+  }, */
     {
     file: 'nono_1.jpg',
     source: 'Credit: nono'
