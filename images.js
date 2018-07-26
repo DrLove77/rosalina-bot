@@ -104,10 +104,6 @@ var images = [
     source: 'Credit: CausticCrayon'
   },
     {
-    file: 'celesse_1.jpg',
-    source: 'Credit: celesse'
-  },
-    {
     file: 'Charmrage_1.jpg',
     source: 'Credit: Charmrage'
   },
@@ -129,10 +125,6 @@ var images = [
   },
     {
     file: 'CoconCrash_2.png',
-    source: 'Credit: CoconCrash'
-  },
-    {
-    file: 'CoconCrash_4.png',
     source: 'Credit: CoconCrash'
   },
     {
@@ -344,7 +336,7 @@ var images = [
     source: 'Credit: KagomesArrow77'
   },
       {
-    file: 'KatteInk_1.jpg',
+    file: 'KatteInk_1.png',
     source: 'Credit: KatteInk'
   },
     {
@@ -519,7 +511,7 @@ var images = [
     file: 'Nidavellir Studios_1.png',
     source: 'Credit: Nidavellir Studios'
   },
-   /* {
+   {
     file: 'Nintendo_1.png',
     source: 'Credit: Nintendo'
   },
@@ -604,10 +596,6 @@ var images = [
     source: 'Credit: Nintendo'
   },
     {
-    file: 'Nintendo_23.png',
-    source: 'Credit: Nintendo'
-  },
-    {
     file: 'Nintendo_24.gif',
     source: 'Credit: Nintendo'
   },
@@ -622,7 +610,7 @@ var images = [
     {
     file: 'Nintendo_27.gif',
     source: 'Credit: Nintendo'
-  }, */
+  }, 
     {
     file: 'nono_1.jpg',
     source: 'Credit: nono'
@@ -859,6 +847,10 @@ var images = [
     file: 'SolarBlade_1.jpg',
     source: 'Credit: SolarBlade'
   },
+      {
+    file: 'SoloBouquet (Model by Nintendo)_1.png',
+    source: 'Credit: Nintendo'
+  },
         {
     file: 'SootySheepu-Sticky-Stickysheep_1.jpg',
     source: 'Credit: SootySheepu-Sticky-Stickysheep'
@@ -1005,7 +997,7 @@ var images = [
   },
         {
     file: 'yasaikakiage_11.png',
-    source: 'Credit: Akairiot'
+    source: 'Credit: yasaikakiage'
   },
         {
     file: 'yatsu (sasuraino)_1.jpg',
@@ -1271,10 +1263,6 @@ var images = [
     source: 'Credit: くろりん'
   },
             {
-    file: 'くろりん_19.jpg',
-    source: 'Credit: くろりん'
-  },
-            {
     file: 'くろりん_20.jpg',
     source: 'Credit: くろりん'
   },
@@ -1319,14 +1307,6 @@ var images = [
     source: 'Credit: くろりん'
   },
             {
-    file: 'くろりん_31.jpg',
-    source: 'Credit: くろりん'
-  },
-            {
-    file: 'くろりん_32.jpg',
-    source: 'Credit: くろりん'
-  },
-            {
     file: 'くろりん_33.jpg',
     source: 'Credit: くろりん'
   },
@@ -1357,6 +1337,10 @@ var images = [
 {
     file: 'タコベー_1.jpg',
     source: 'Credit: タコベー'
+  },
+  {
+    file: 'たま_1.jpg',
+    source: 'Credit: たま'
   },
 {
     file: 'たるもち_1.png',
@@ -1463,10 +1447,6 @@ var images = [
     source: 'Credit: ぬここ'
   },
     {
-    file: 'ぬここ_23.jpg',
-    source: 'Credit: ぬここ'
-  },
-    {
     file: 'ぬここ_24.jpg',
     source: 'Credit: ぬここ'
   },
@@ -1484,10 +1464,6 @@ var images = [
   },
     {
     file: 'ぬここ_28.jpg',
-    source: 'Credit: ぬここ'
-  },
-    {
-    file: 'ぬここ_29.jpg',
     source: 'Credit: ぬここ'
   },
     {
@@ -1559,15 +1535,7 @@ var images = [
     source: 'Credit: ピクセル-1'
   },
 {
-    file: 'ブルーマイカ_1.jpg',
-    source: 'Credit: ブルーマイカ'
-  },
-{
     file: 'ブルーマイカ_2.jpg',
-    source: 'Credit: ブルーマイカ'
-  },
-{
-    file: 'ブルーマイカ_4.jpg',
     source: 'Credit: ブルーマイカ'
   },
 {
@@ -1584,10 +1552,6 @@ var images = [
   },
 {
     file: 'ブルーマイカ_9.jpg',
-    source: 'Credit: ブルーマイカ'
-  },
-{
-    file: 'ブルーマイカ_10.jpg',
     source: 'Credit: ブルーマイカ'
   },
 {
@@ -1716,10 +1680,6 @@ var images = [
   },
     {
     file: '暁_1.png',
-    source: 'Credit: 暁'
-  },
-    {
-    file: '暁_2.jpg',
     source: 'Credit: 暁'
   },
     {
