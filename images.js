@@ -1552,7 +1552,7 @@ var images = [
     source: 'Credit: わゆ'
   },
     {
-    file: '나물빼미_1.jpg',
+    file: 'zz_1.jpg',
     source: 'Credit: 나물빼미'
   },
 {
