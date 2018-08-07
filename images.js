@@ -19,6 +19,10 @@ var images = [
     file: 'Akairiot_6.jpg',
     source: 'Credit: Akai Riot'
   },
+        {
+    file: 'applfruit_1.jpg',
+    source: 'Credit: applfruit'
+  },
     {
     file: 'AshleyZombieArts_1.png',
     source: 'Credit: AshleyZombieArts'
@@ -46,6 +50,10 @@ var images = [
     {
     file: 'Aysh (Ashyiun)_1.jpg',
     source: 'Credit: Aysh (Ashyiun)'
+  },
+      {
+    file: 'AzureBladeXIII_1.jpg',
+    source: 'Credit: AzureBladeXIII'
   },
       {
     file: 'Baolibab_1.jpg',
@@ -327,9 +335,17 @@ var images = [
     file: 'kitsune23star_1.jpg',
     source: 'Credit: kitsune23star'
   },
+      {
+    file: 'koidrake_1.jpg',
+    source: 'Credit: koidrake'
+  },
     {
     file: 'Kokorokeke_1.jpg',
     source: 'Credit: Kokorokeke'
+  },
+      {
+    file: 'Korien Designs_1.jpg',
+    source: 'Credit: Korien Designs'
   },
     {
     file: 'KrisCG_1.jpg',
@@ -843,6 +859,10 @@ var images = [
     file: 'Takkikun_1.jpg',
     source: 'Credit: Takkikun'
   },
+          {
+    file: 'Tamamon_1.jpg',
+    source: 'Credit: Tamamon'
+  },
         {
     file: 'Teamoun_1.png',
     source: 'Credit: Teamoun'
@@ -1229,10 +1249,6 @@ var images = [
   },
             {
     file: 'くろりん_20.jpg',
-    source: 'Credit: くろりん'
-  },
-            {
-    file: 'くろりん_21.jpg',
     source: 'Credit: くろりん'
   },
             {
@@ -1713,6 +1729,10 @@ var images = [
   },
     {
     file: '真瀬_16.png',
+    source: 'Credit: 真瀬'
+  },
+      {
+    file: '真瀬_17.png',
     source: 'Credit: 真瀬'
   },
     {
