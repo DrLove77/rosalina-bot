@@ -1500,7 +1500,7 @@ var images = [
     source: 'Credit: みさと'
   },
   {
-    file: 'やつがしら_1.jpg',
+    file: 'zzz_1.jpg',
     source: 'Credit: やつがしら'
   },
 {
