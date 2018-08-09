@@ -20,7 +20,7 @@ var images = [
     source: 'Credit: Akai Riot'
   },
         {
-    file: 'applfruit_1.jpg',
+    file: 'applfruit_1.png',
     source: 'Credit: applfruit'
   },
     {
