@@ -45,6 +45,7 @@ function upload_random_image(images){
           }
           else{
             console.log('Posted an image!');
+			console.log(random_image.file);
           }
         }
       );
