@@ -28,7 +28,7 @@ var images = [
     source: 'Credit: AshleyZombieArts'
   },
     {
-    file: 'AthenaWyrm.png',
+    file: 'AthenaWyrm_1.png',
     source: 'Credit: AthenaWyrm'
   },
     {
