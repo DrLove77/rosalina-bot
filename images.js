@@ -1137,19 +1137,19 @@ var images = [
   },
                     {
     file: 'Undead-Niklos_1.png',
-    source: 'Credit: Twilit-Arawen'
+    source: 'Credit: Undead-Niklos'
   },
                     {
     file: 'Undead-Niklos_2.png',
-    source: 'Credit: Twilit-Arawen'
+    source: 'Credit: Undead-Niklos'
   },
                     {
     file: 'Undead-Niklos_3.png',
-    source: 'Credit: Twilit-Arawen'
+    source: 'Credit: Undead-Niklos'
   },
                     {
     file: 'Undead-Niklos_4.png',
-    source: 'Credit: Twilit-Arawen'
+    source: 'Credit: Undead-Niklos'
   },
                       {
     file: 'Wysoka_1.jpg',
