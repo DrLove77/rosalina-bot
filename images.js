@@ -824,32 +824,32 @@ var images = [
     source: 'Credit: Nintendo'
   },   
   {
-    file: 'Nintendo_21.gif',
-    source: 'Credit: Nintendo'
+    file: 'Gif made by angelnamine, models by Nintendo_1.gif',
+    source: 'Credit: Gif made by angelnamine, models by Nintendo'
   },
     {
-    file: 'Nintendo_22.gif',
-    source: 'Credit: Nintendo'
+    file: 'Gif made by afantasybasedonreality, models by Nintendo.gif',
+    source: 'Credit: Gif made by afantasybasedonreality, models by Nintendo'
   },
       {
-    file: 'Nintendo_23.gif',
-    source: 'Credit: Nintendo'
+    file: 'Gif made by it-started-to-rain, models by Nintendo_1.gif',
+    source: 'Credit: Gif made by it-started-to-rain, models by Nintendo'
   },
     {
-    file: 'Nintendo_24.gif',
-    source: 'Credit: Nintendo'
+    file: 'Gif made by aranelyn, models by Nintendo_1.gif',
+    source: 'Credit: Gif made by aranelyn, models by Nintendo'
   },
     {
-    file: 'Nintendo_25.gif',
-    source: 'Credit: Nintendo'
+    file: 'Gif made by eachyEstela, models by Nintendo_1.gif',
+    source: 'Credit: Gif made by eachyEstela, models by Nintendo'
   },
     {
-    file: 'Nintendo_26.gif',
-    source: 'Credit: Nintendo'
+    file: 'Gif made by declination, models by Nintendo_1.gif',
+    source: 'Credit: Gif made by declination, models by Nintendo'
   },
       {
-    file: 'Nintendo_28.gif',
-    source: 'Credit: Nintendo'
+    file: 'Gif made by angelnamine, models by Nintendo_2.gif',
+    source: 'Credit: Gif made by angelnamine, models by Nintendo'
   }, 
     {
     file: 'nono_1.jpg',
