@@ -1496,8 +1496,8 @@ var images = [
     source: 'Credit: しろみそ'
   },
 {
-    file: 'せ''そ_1.png',
-    source: 'Credit: せ''そ_1'
+    file: 'せそ_1.png',
+    source: 'Credit: せ"そ_1'
   },
 {
     file: 'たかたか_1.jpg',
