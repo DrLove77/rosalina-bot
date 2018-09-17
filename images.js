@@ -1808,10 +1808,6 @@ var images = [
     source: 'Credit: 森清士郎'
   },
     {
-    file: '森清士郎_1.jpg',
-    source: 'Credit: 森清士郎'
-  },
-    {
     file: '真瀬_2.png',
     source: 'Credit: 真瀬'
   },
