@@ -584,7 +584,7 @@ var images = [
     source: 'Credit: Lunarflurry'
   },
       {
-    file: 'Luzim-Lukart_1.png',
+    file: 'Luzim-Lukart_1.jpg',
     source: 'Credit: Luzim-Lukart'
   },
     {
