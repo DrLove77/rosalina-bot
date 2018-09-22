@@ -420,7 +420,7 @@ var images = [
     source: 'Credit: Icy-Snowflakes'
   },
       {
-    file: 'ika chian_1.png',
+    file: 'ika chian_1.jpg',
     source: 'Credit: ika chian'
   },
     {
