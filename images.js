@@ -1363,6 +1363,10 @@ var images = [
     file: 'XAR LIIN_1.jpg',
     source: 'Credit: XAR LIIN'
   },
+                          {
+    file: 'yampuff_1.jpg',
+    source: 'Credit: yampuff'
+  },
         {
     file: 'yasaikakiage_1.jpg',
     source: 'Credit: yasaikakiage'
