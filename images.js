@@ -266,8 +266,7 @@ var images = [
      {
     file: 'ellenent_5.png',
     source: 'Credit: ellenent'
-  },   
-  },   
+  },     
      {
     file: 'ellenent_10.png',
     source: 'Credit: ellenent'
