@@ -1604,10 +1604,6 @@ var images = [
     source: 'Credit: くろりん'
   },
               {
-    file: 'ゴンザレス_1.jpg',
-    source: 'Credit: ゴンザレス'
-  },
-              {
     file: 'ゴンザレス_2.jpg',
     source: 'Credit: ゴンザレス'
   },
