@@ -548,6 +548,10 @@ var images = [
     source: 'Credit: Jackii'
   },
         {
+    file: 'JadeMiya_1.png',
+    source: 'Credit: JadeMiya'
+  },
+        {
     file: 'JamilSC11_1.jpg',
     source: 'Credit: JamilSC11'
   },
@@ -692,6 +696,10 @@ var images = [
     source: 'Credit: Littleocean'
   },
         {
+    file: 'Liu Ting_1.jpg',
+    source: 'Credit: Liu Ting'
+  },
+        {
     file: 'lom678_1.png',
     source: 'Credit: lom678'
   },
@@ -730,10 +738,6 @@ var images = [
       {
     file: 'Luzim-Lukart_1.jpg',
     source: 'Credit: Luzim-Lukart'
-  },
-    {
-    file: 'ma2acworks_1.jpg',
-    source: 'Credit: ma2acworks'
   },
       {
     file: 'MagicalHelen_1.jpg',
@@ -1754,6 +1758,10 @@ var images = [
   {
     file: 'ミラーク_1.jpg',
     source: 'Credit: ミラーク'
+  },
+    {
+    file: 'みるめーく (otsukaretya)_1.jpg',
+    source: 'Credit: みるめーく (otsukaretya)'
   },
     {
     file: 'め_1.png',
