@@ -83,10 +83,6 @@ var images = [
     file: 'Axsens_1.jpg',
     source: 'Credit: Axsens'
   },
-        {
-    file: 'AzureBladeXIII_2.png',
-    source: 'Credit: AzureBladeXIII'
-  },
           {
     file: 'BeckNoLastName_1.jpg',
     source: 'Credit: BeckNoLastName'
