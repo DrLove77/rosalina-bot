@@ -319,34 +319,6 @@ var images = [
     file: 'GeekytheMariotaku_1.png',
     source: 'Credit: GeekytheMariotaku'
   },
-          {
-    file: 'Ghiraham-Sandwich_2.jpg',
-    source: 'Credit: Ghiraham-Sandwich'
-  },
-          {
-    file: 'Ghiraham-Sandwich_3.png',
-    source: 'Credit: Ghiraham-Sandwich'
-  },
-          {
-    file: 'Ghiraham-Sandwich_4.png',
-    source: 'Credit: Ghiraham-Sandwich'
-  },
-          {
-    file: 'Ghiraham-Sandwich_5.png',
-    source: 'Credit: Ghiraham-Sandwich'
-  },
-          {
-    file: 'Ghiraham-Sandwich_6.jpg',
-    source: 'Credit: Ghiraham-Sandwich'
-  },
-          {
-    file: 'Ghiraham-Sandwich_8.jpg',
-    source: 'Credit: Ghiraham-Sandwich'
-  },
-          {
-    file: 'Ghiraham-Sandwich_9.jpg',
-    source: 'Credit: Ghiraham-Sandwich'
-  },
       {
     file: 'GhostlyAvenger_1.png',
     source: 'Credit: GhostlyAvenger'
