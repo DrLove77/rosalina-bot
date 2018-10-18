@@ -884,7 +884,7 @@ var images = [
     source: 'Credit: ninpoapipipi'
   },
     {
-    file: 'Nintendo_6.jpg',
+    file: 'Nintendo_6.png',
     source: 'Credit: Nintendo'
   },
     {
