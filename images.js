@@ -774,7 +774,7 @@ var images = [
                      {
     file: 'MilesTheCreator_1.gif',
     source: 'Credit: MilesTheCreator'
-  }
+  },
              {
     file: 'minake2020_1.jpg',
     source: 'Credit: minake2020'
