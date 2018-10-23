@@ -1721,7 +1721,7 @@ var images = [
     source: 'Credit: バイトン'
   }, 
         {
-    file: 'はちこ_1.png',
+    file: 'はちこ_1.jpg',
     source: 'Credit: はちこ'
   }, 
         {
