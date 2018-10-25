@@ -308,7 +308,7 @@ var images = [
     source: 'Credit: Flutterpaws'
   },
         {
-    file: 'Ge-B_1.png',
+    file: 'Ge-B_1.jpg',
     source: 'Credit: Ge-B'
   },
         {
