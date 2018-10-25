@@ -1517,10 +1517,6 @@ var images = [
     source: 'Credit: えろ豆'
   },
             {
-    file: 'えろ豆_11.jpg',
-    source: 'Credit: えろ豆'
-  },
-            {
     file: 'オーピク_1.jpg',
     source: 'Credit: オーピク'
   },
