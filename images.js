@@ -603,10 +603,6 @@ var images = [
     file: 'KumaOniOni_1.png',
     source: 'Credit: KumaOniOni'
   },
-              {
-    file: 'Kyraktos_1.png',
-    source: 'Credit: Kyraktos'
-  },
       {
     file: 'La Panda (La_Pundi)_1.gif',
     source: 'Credit: La Panda (La_Pundi)'
@@ -738,10 +734,6 @@ var images = [
            {
     file: 'marindashy_1.png',
     source: 'Credit: marindashy'
-  },
-               {
-    file: 'Mario-Artist64_2.jpg',
-    source: 'Credit: Mario-Artist64'
   },
                  {
     file: 'Marios-Princess (models by zeldadove and cabbagebowl キャベツ鉢)_1.png',
