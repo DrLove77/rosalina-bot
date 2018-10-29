@@ -431,10 +431,6 @@ var images = [
     file: 'Girutea_1.jpg',
     source: 'Credit: Girutea'
   },
-        {
-    file: 'Girutea_2.jpg',
-    source: 'Credit: Girutea'
-  },
           {
     file: 'Grantake_1.gif',
     source: 'Credit: Grantake'
