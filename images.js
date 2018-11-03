@@ -1332,10 +1332,6 @@ var images = [
     file: 'whplefct_1.png',
     source: 'Credit: whplefct'
   },
-                        {
-    file: 'Winterter_1.jpg',
-    source: 'Credit: Winterter'
-  },
                             {
     file: 'Wolfhearts_YT_1.jpg',
     source: 'Credit: Wolfhearts_YT'
