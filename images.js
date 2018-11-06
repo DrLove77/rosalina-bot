@@ -321,11 +321,11 @@ var images = [
   },
         {
     file: 'Francis (Mediamaster_127)_1.jpg',
-    source: 'Credit: Flutterpaws'
+    source: 'Credit: Francis (Mediamaster_127)'
   },
         {
     file: 'Francis (Mediamaster_127)_2.jpg',
-    source: 'Credit: Flutterpaws'
+    source: 'Credit: Francis (Mediamaster_127)'
   },
         {
     file: 'Ge-B_1.jpg',
