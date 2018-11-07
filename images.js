@@ -1067,10 +1067,6 @@ var images = [
     file: 'rosumasansrie21_1.jpg',
     source: 'Credit: rosumasansrie21'
   },
-              {
-    file: 'SaccharoKirby_1.jpg',
-    source: 'Credit: SaccharoKirby'
-  },
             {
     file: 'SailorBomber and NY-Disney-fan1955_1.png',
     source: 'Credit: SailorBomber and NY-Disney-fan1955'
