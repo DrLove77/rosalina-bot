@@ -1900,7 +1900,7 @@ var images = [
     source: 'Credit: まさよし'
   },
 {
-    file: 'まよ"_1.jpg',
+    file: 'まよ''_1.jpg',
     source: 'Credit: まよ"'
   },
   {
