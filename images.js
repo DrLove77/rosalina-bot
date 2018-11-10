@@ -995,10 +995,6 @@ var images = [
     file: 'nm崎_6.jpeg',
     source: 'Credit: nm崎'
   },    
-    {
-    file: 'nono_1.jpg',
-    source: 'Credit: nono'
-  },
       {
     file: 'Novanim_1.jpg',
     source: 'Credit: Novanim'
@@ -1900,7 +1896,7 @@ var images = [
     source: 'Credit: まさよし'
   },
 {
-    file: 'まよ''_1.jpg',
+    file: 'まよ_1.jpg',
     source: 'Credit: まよ"'
   },
   {
