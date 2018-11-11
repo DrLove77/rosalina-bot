@@ -1343,10 +1343,6 @@ var images = [
     file: 'Taco_Nuva_1.jpg',
     source: 'Credit: Taco_Nuva'
   },
-                {
-    file: 'TacoDeCorazon_1.jpg',
-    source: 'Credit: TacoDeCorazon'
-  },
             {
     file: 'tamber-mizuki_1.png',
     source: 'Credit: tamber-mizuki'
@@ -1633,10 +1629,6 @@ var images = [
   },
               {
     file: 'えろ豆_6.jpg',
-    source: 'Credit: えろ豆'
-  },
-            {
-    file: 'えろ豆_7.jpg',
     source: 'Credit: えろ豆'
   },
             {
