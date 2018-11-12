@@ -36,8 +36,8 @@ var images = [
     source: 'Credit: Alex (ZeldalinkArt)'
   },
       {
-    file: 'Alexandrasrt_1.png',
-    source: 'Credit: Alexandrasrt'
+    file: 'Alexandrasrt (Lineart made by IceCreamLink)_1.png',
+    source: 'Credit: Alexandrasrt (Lineart made by IceCreamLink)'
   },
         {
     file: 'AliArt18_1.png',
