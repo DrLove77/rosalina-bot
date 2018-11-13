@@ -148,7 +148,7 @@ var images = [
     source: 'Credit: CAL1C0'
   },
           {
-    file: 'CAL1C0_1.png',
+    file: 'CAL1C0_2.png',
     source: 'Credit: CAL1C0'
   },
           {
@@ -1145,15 +1145,15 @@ var images = [
   },
             {
     file: 'Rushin_1.png',
-    source: 'Credit: rosumasansrie21'
+    source: 'Credit: Rushin'
   },
               {
     file: 'Rushin_2.jpg',
-    source: 'Credit: rosumasansrie21'
+    source: 'Credit: Rushin'
   },
               {
     file: 'Rushin_3.jpg',
-    source: 'Credit: rosumasansrie21'
+    source: 'Credit: Rushin'
   },
               {
     file: 'rosumasansrie21_1.jpg',
