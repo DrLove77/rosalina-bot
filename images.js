@@ -348,8 +348,8 @@ var images = [
     source: 'Credit: Ge-B'
   },
         {
-    file: 'gebyy-terar_1.jpeg',
-    source: 'Credit: gebyy-terar'
+    file: 'Ge-B_2.jpeg',
+    source: 'Credit: Ge-B'
   },
         {
     file: 'GeekytheMariotaku_1.png',
