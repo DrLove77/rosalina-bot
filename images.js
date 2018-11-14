@@ -376,10 +376,6 @@ var images = [
     source: 'Credit: Gif made by angelnamine, models by Nintendo'
   },
     {
-    file: 'Gif made by angelnamine, models by Nintendo_1.gif',
-    source: 'Credit: Gif made by angelnamine, models by Nintendo'
-  },,
-    {
     file: 'Gif made by aranelyn, models by Nintendo_1.gif',
     source: 'Credit: Gif made by aranelyn, models by Nintendo'
   },
