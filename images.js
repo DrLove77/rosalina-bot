@@ -308,6 +308,10 @@ var images = [
     source: 'Credit: Fallen-Lunar-Shaman'
   },
         {
+    file: 'Fánt (fant_da), Music - World Bowser 8 Bit Remix by Bulby.mp4',
+    source: 'Credit: Fánt (fant_da), Music - World Bowser 8 Bit Remix by Bulby'
+  },
+        {
     file: 'FantHarubi_1.jpg',
     source: 'Credit: FantHarubi'
   },
@@ -362,6 +366,10 @@ var images = [
           {
     file: 'Gif made by  luna2528cp, models by Nintendo_1.gif',
     source: 'Credit: Gif made by  luna2528cp, models by Nintendo'
+  },
+            {
+    file: 'Gif made by amphetavin, models by Nintendo_1.gif',
+    source: 'Credit: Gif made by amphetavin, models by Nintendo'
   },
               {
     file: 'Gif made by angelnamine, models by Nintendo_2.gif',
@@ -1721,6 +1729,18 @@ var images = [
   },
             {
     file: 'くろりん_29.jpg',
+    source: 'Credit: くろりん'
+  },
+              {
+    file: 'くろりん_34.mp4',
+    source: 'Credit: くろりん'
+  },
+              {
+    file: 'くろりん_35.mp4',
+    source: 'Credit: くろりん'
+  },
+              {
+    file: 'くろりん_36.mp4',
     source: 'Credit: くろりん'
   },
               {
