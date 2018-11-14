@@ -1372,7 +1372,7 @@ var images = [
     source: 'Credit: Tashidraw'
   },
           {
-    file: 'tecchen_1.png',
+    file: 'tecchen_1.jpg',
     source: 'Credit: tecchen'
   },
             {
