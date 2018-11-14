@@ -1755,10 +1755,6 @@ var images = [
     file: 'しろみそ_1.png',
     source: 'Credit: しろみそ'
   },
-{
-    file: 'せそ_1.png',
-    source: 'Credit: せ"そ'
-  },
   {
     file: 'せんむ (senmudayo)_1.jpg',
     source: 'Credit: せんむ (senmudayo)'
