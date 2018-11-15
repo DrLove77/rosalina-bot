@@ -27,10 +27,6 @@ var images = [
     file: 'Adrafox_1.jpg',
     source: 'Credit: Adrafox'
   },
-        {
-    file: 'Akairiot_1.jpg',
-    source: 'Credit: Akai Riot'
-  },
       {
     file: 'Akairiot_2.jpg',
     source: 'Credit: Akai Riot'
@@ -441,10 +437,6 @@ var images = [
   },
           {
     file: 'Gif made by declination, models by Nintendo_4.gif',
-    source: 'Credit: Gif made by declination, models by Nintendo'
-  },
-          {
-    file: 'Gif made by declination, models by Nintendo_5.gif',
     source: 'Credit: Gif made by declination, models by Nintendo'
   },
         {
@@ -1461,10 +1453,6 @@ var images = [
   },
             {
     file: 'tamber-mizuki_1.png',
-    source: 'Credit: tamber-mizuki'
-  },
-            {
-    file: 'tamber-mizuki_2.png',
     source: 'Credit: tamber-mizuki'
   },
               {
