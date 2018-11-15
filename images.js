@@ -1976,10 +1976,6 @@ var images = [
     source: 'Credit: ぬここ'
   },
         {
-    file: 'ぬここ_23.jpg',
-    source: 'Credit: ぬここ'
-  }, 
-        {
     file: 'ぬここ_46.jpg',
     source: 'Credit: ぬここ'
   }, 
