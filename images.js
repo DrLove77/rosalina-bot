@@ -1585,31 +1585,31 @@ var images = [
   },
                       {
     file: 'Unknown_1.png',
-    source: 'Credit: Unknown - if anyone knows the artist please let us know'
+    source: 'Credit: unknown - if anyone knows the artist please let us know'
   },
                       {
     file: 'Unknown_2.png',
-    source: 'Credit: Unknown - if anyone knows the artist please let us know'
+    source: 'Credit: unknown - if anyone knows the artist please let us know'
   },
                       {
     file: 'Unknown_3.png',
-    source: 'Credit: Unknown - if anyone knows the artist please let us know'
+    source: 'Credit: unknown - if anyone knows the artist please let us know'
   },
                       {
     file: 'Unknown_4.png',
-    source: 'Credit: Unknown - if anyone knows the artist please let us know'
+    source: 'Credit: unknown - if anyone knows the artist please let us know'
   },
                       {
     file: 'Unknown_5.png',
-    source: 'Credit: Unknown - if anyone knows the artist please let us know'
+    source: 'Credit: unknown - if anyone knows the artist please let us know'
   },
                       {
     file: 'Unknown_6.png',
-    source: 'Credit: Unknown - if anyone knows the artist please let us know'
+    source: 'Credit: unknown - if anyone knows the artist please let us know'
   },
                       {
     file: 'Unknown_7.png',
-    source: 'Credit: Unknown - if anyone knows the artist please let us know'
+    source: 'Credit: unknown - if anyone knows the artist please let us know'
   },
                       {
     file: 'VonderTann_1.png',
