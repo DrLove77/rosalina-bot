@@ -2120,7 +2120,7 @@ var images = [
     source: 'Credit: らいむ'
   },
   {
-    file: 'z_6.jpg',
+    file: 'z_6.png',
     source: 'Credit: らいむ'
   },
 {
