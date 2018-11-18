@@ -1312,10 +1312,6 @@ var images = [
     source: 'Credit: shwao!'
   },
             {
-    file: 'shwao!_1.jpg',
-    source: 'Credit: shwao!'
-  },
-            {
     file: 'SigurdHosenfeld_2.jpg',
     source: 'Credit: SigurdHosenfeld'
   },
