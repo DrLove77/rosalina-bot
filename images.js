@@ -296,10 +296,6 @@ var images = [
     source: 'Credit: edenrozee'
   },
             {
-    file: 'ElderMattC (Rosalina model by Nintendo)_1.jpg',
-    source: 'Credit: ElderMattC (Rosalina model by Nintendo)'
-  },
-            {
     file: 'Elinewton_1.jpg',
     source: 'Credit: Elinewton'
   },
