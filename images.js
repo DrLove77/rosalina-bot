@@ -515,10 +515,6 @@ var images = [
     file: 'giselledoodles_1.jpg',
     source: 'Credit: giselledoodles'
   },
-          {
-    file: 'Grantake_1.gif',
-    source: 'Credit: Grantake'
-  },
             {
     file: 'GrumpyBuneary_1.png',
     source: 'Credit: GrumpyBuneary'
@@ -1203,10 +1199,6 @@ var images = [
     file: 'NY-Disney-fan1955_1.png',
     source: 'Credit: NY-Disney-fan1955'
   },
-          {
-    file: 'OfficialFoxbit_1.jpg',
-    source: 'Credit: OfficialFoxbit'
-  },
             {
     file: 'OZ猫 (ozucat)_1.jpg',
     source: 'Credit: OZ猫 (ozucat)'
@@ -1499,10 +1491,6 @@ var images = [
     file: 'SolarBlade_1.jpg',
     source: 'Credit: SolarBlade'
   },
-                  {
-    file: 'Solo993_1.png',
-    source: 'Credit: Solo993'
-  },
         {
     file: 'SootySheepu-Sticky-Stickysheep_1.jpg',
     source: 'Credit: SootySheepu-Sticky-Stickysheep'
@@ -1557,10 +1545,6 @@ var images = [
   },
             {
     file: 'Stoic Seraphim_7.jpg',
-    source: 'Credit: Stoic Seraphim'
-  },
-              {
-    file: 'Stoic Seraphim_6.jpg',
     source: 'Credit: Stoic Seraphim'
   },
               {
