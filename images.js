@@ -971,10 +971,6 @@ var images = [
     file: 'MarxForever_1.jpeg',
     source: 'Credit: MarxForever'
   },
-           {
-    file: 'Mayaroni_1.jpg',
-    source: 'Credit: Mayaroni'
-  },
              {
     file: 'M-D-47_10.jpg',
     source: 'Credit: M-D-47'
@@ -1582,10 +1578,6 @@ var images = [
                 {
     file: 'suuhkita_1.png',
     source: 'Credit: suuhkita'
-  },
-              {
-    file: 'Taco_Nuva_1.jpg',
-    source: 'Credit: Taco_Nuva'
   },
             {
     file: 'tamber-mizuki_1.png',
@@ -2306,10 +2298,6 @@ var images = [
   {
     file: 'zzz_1.jpg',
     source: 'Credit: やつがしら'
-  },
-    {
-    file: 'アオイ_1.jpg',
-    source: 'Credit: アオイ'
   },
 {
     file: 'よも - YM_1.jpg',
