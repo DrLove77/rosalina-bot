@@ -2020,7 +2020,7 @@ var images = [
     source: 'Credit: きくどん'
   },
                 {
-    file: 'きつねうどんฅ^•ﻌ•^ฅ_3.png',
+    file: 'きつねうどんฅ^•ﻌ•^ฅ_1.jpg',
     source: 'Credit: きつねうどんฅ^•ﻌ•^ฅ'
   },
                     {
