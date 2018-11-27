@@ -1203,14 +1203,6 @@ var images = [
     file: 'paddlepan_1.jpg',
     source: 'Credit: paddlepan'
   },
-        {
-    file: 'Patdarux_1.jpg',
-    source: 'Credit: Patdarux'
-  },
-        {
-    file: 'Patdarux_2.jpg',
-    source: 'Credit: Patdarux'
-  },
           {
     file: 'pedrocorreia_1.png',
     source: 'Credit: pedrocorreia'
