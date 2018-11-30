@@ -39,6 +39,10 @@ var images = [
     file: 'Akai Riot_8.png',
     source: 'Credit: Akai Riot'
   },
+          {
+    file: 'Akai Riot_8.png',
+    source: 'Credit: Akai Riot'
+  },
         {
     file: 'Akai Riot_9.jpg',
     source: 'Credit: Akai Riot'
@@ -52,6 +56,14 @@ var images = [
     source: 'Credit: Alex (ZeldalinkArt)'
   },
           {
+    file: 'Alex (ZeldalinkArt)_1.jpg',
+    source: 'Credit: Alex (ZeldalinkArt)'
+  },
+          {
+    file: 'AlexXFantaisa_1.jpg',
+    source: 'Credit: AlexXFantaisa'
+  },
+            {
     file: 'AlexXFantaisa_1.jpg',
     source: 'Credit: AlexXFantaisa'
   },
@@ -67,11 +79,23 @@ var images = [
     file: 'AnibalChavez_1.png',
     source: 'Credit: AnibalChavez'
   },
+                {
+    file: 'AnibalChavez_1.png',
+    source: 'Credit: AnibalChavez'
+  },
               {
     file: 'AnibalChavez_2.png',
     source: 'Credit: AnibalChavez'
   },
+                {
+    file: 'AnibalChavez_2.png',
+    source: 'Credit: AnibalChavez'
+  },
               {
+    file: 'AnibalChavez_3.png',
+    source: 'Credit: AnibalChavez'
+  },
+                {
     file: 'AnibalChavez_3.png',
     source: 'Credit: AnibalChavez'
   },
@@ -122,10 +146,6 @@ var images = [
           {
     file: 'BeckNoLastName_1.jpg',
     source: 'Credit: BeckNoLastName'
-  },
-            {
-    file: 'BeeQueen158_1.png',
-    source: 'Credit: BeeQueen158'
   },
     {
     file: 'bellhenge_2.jpg',
@@ -215,6 +235,10 @@ var images = [
     file: 'Chiyoko38_1.jpg',
     source: 'Credit: Chiyoko38'
   },
+              {
+    file: 'Chiyoko38_1.jpg',
+    source: 'Credit: Chiyoko38'
+  },
       {
     file: 'Chocomiru_3.png',
     source: 'Credit: Chocomiru'
@@ -256,6 +280,10 @@ var images = [
     source: 'Credit: CoconCrash'
   },
             {
+    file: 'CoconCrash_9.jpg',
+    source: 'Credit: CoconCrash'
+  },
+              {
     file: 'CoconCrash_9.jpg',
     source: 'Credit: CoconCrash'
   },
@@ -310,10 +338,6 @@ var images = [
             {
     file: 'edenrozee_2.jpg',
     source: 'Credit: edenrozee'
-  },
-            {
-    file: 'Elinewton_1.jpg',
-    source: 'Credit: Elinewton'
   },
        {
     file: 'EliTE92_1.png',
@@ -407,11 +431,23 @@ var images = [
     file: 'GalaxyStar414_1.jpg',
     source: 'Credit: GalaxyStar414'
   },
+              {
+    file: 'GalaxyStar414_1.jpg',
+    source: 'Credit: GalaxyStar414'
+  },
           {
     file: 'Ge-B_3.jpg',
     source: 'Credit: Ge-B'
   },
+            {
+    file: 'Ge-B_3.jpg',
+    source: 'Credit: Ge-B'
+  },
           {
+    file: 'Ge-B_4.png',
+    source: 'Credit: Ge-B'
+  },
+            {
     file: 'Ge-B_4.png',
     source: 'Credit: Ge-B'
   },
@@ -420,6 +456,10 @@ var images = [
     source: 'Credit: Ge-B'
   },
           {
+    file: 'Ge-B_6.jpg',
+    source: 'Credit: Ge-B'
+  },
+            {
     file: 'Ge-B_6.jpg',
     source: 'Credit: Ge-B'
   },
@@ -443,10 +483,6 @@ var images = [
     file: 'Gif made by amphetavin, models by Nintendo_1.gif',
     source: 'Credit: Gif made by amphetavin, models by Nintendo'
   },
-              {
-    file: 'Gif made by angelnamine, models by Nintendo_2.gif',
-    source: 'Credit: Gif made by angelnamine, models by Nintendo'
-  },
     {
     file: 'Gif made by eachyEstela, models by Nintendo_1.gif',
     source: 'Credit: Gif made by eachyEstela, models by Nintendo'
@@ -466,14 +502,6 @@ var images = [
         {
     file: 'Gif made by aranelyn, models by Nintendo_2.gif',
     source: 'Credit: Gif made by aranelyn, models by Nintendo'
-  },
-        {
-    file: 'Gif made by declination, models by Nintendo_2.gif',
-    source: 'Credit: Gif made by declination, models by Nintendo'
-  },
-        {
-    file: 'Gif made by declination, models by Nintendo_3.gif',
-    source: 'Credit: Gif made by declination, models by Nintendo'
   },
         {
     file: 'Gif made by declination, models by Nintendo_6.gif',
@@ -520,6 +548,10 @@ var images = [
     source: 'Credit: GrumpyBuneary'
   },
         {
+    file: 'GtsMayCry7_1.jpg',
+    source: 'Credit: GtsMayCry7'
+  },
+          {
     file: 'GtsMayCry7_1.jpg',
     source: 'Credit: GtsMayCry7'
   },
@@ -635,6 +667,10 @@ var images = [
     file: 'IndigoWildcat and yoshi1998_1.png',
     source: 'Credit: IndigoWildcat and yoshi1998'
   },
+          {
+    file: 'IndigoWildcat and yoshi1998_1.png',
+    source: 'Credit: IndigoWildcat and yoshi1998'
+  },
     {
     file: 'IndigoWildcat_1.png',
     source: 'Credit: IndigoWildcat'
@@ -692,6 +728,10 @@ var images = [
     source: 'Credit: JLee-1015'
   },
             {
+    file: 'jojomirabelle_1.png',
+    source: 'Credit: jojomirabelle'
+  },
+              {
     file: 'jojomirabelle_1.png',
     source: 'Credit: jojomirabelle'
   },
@@ -764,6 +804,10 @@ var images = [
     source: 'Credit: Knickinator'
   },
             {
+    file: 'Knickinator_1.jpg',
+    source: 'Credit: Knickinator'
+  },
+            {
     file: 'Kokorokeke_1.jpg',
     source: 'Credit: Kokorokeke'
   },
@@ -812,15 +856,7 @@ var images = [
     source: 'Credit: Lady of Link'
   },
             {
-    file: 'Lady of Link_9.png',
-    source: 'Credit: Lady of Link'
-  },
-            {
     file: 'Lady of Link_10.png',
-    source: 'Credit: Lady of Link'
-  },
-              {
-    file: 'Lady of Link_11.png',
     source: 'Credit: Lady of Link'
   },
               {
@@ -1019,10 +1055,6 @@ var images = [
     file: 'Mild Entropy - Messy Jesse_1.jpg',
     source: 'Credit: Mild Entropy - Messy Jesse'
   },
-                     {
-    file: 'MilesTheCreator_1.gif',
-    source: 'Credit: MilesTheCreator'
-  },
              {
     file: 'minake2020_1.jpg',
     source: 'Credit: minake2020'
@@ -1166,7 +1198,11 @@ var images = [
       {
     file: 'nm崎_3.jpg',
     source: 'Credit: nm崎'
-  },    
+  }, 
+      {
+    file: 'nm崎_3.jpg',
+    source: 'Credit: nm崎'
+  },      
       {
     file: 'nm崎_5.jpg',
     source: 'Credit: nm崎'
@@ -1200,6 +1236,10 @@ var images = [
     source: 'Credit: OZ猫 (ozucat)'
   },
               {
+    file: 'paddlepan_1.jpg',
+    source: 'Credit: paddlepan'
+  },
+                {
     file: 'paddlepan_1.jpg',
     source: 'Credit: paddlepan'
   },
@@ -1327,6 +1367,10 @@ var images = [
     file: 'Renegade_Ciara_1.png',
     source: 'Credit: Renegade_Ciara'
   },
+              {
+    file: 'Renegade_Ciara_1.png',
+    source: 'Credit: Renegade_Ciara'
+  },
           {
     file: 'RilexLenov_1.jpg',
     source: 'Credit: RilexLenov'
@@ -1431,11 +1475,19 @@ var images = [
     file: 'SarukaiWolf_5.png',
     source: 'Credit: SarukaiWolf'
   },
+                  {
+    file: 'SarukaiWolf_5.png',
+    source: 'Credit: SarukaiWolf'
+  },
                 {
     file: 'Setz_2.jpg',
     source: 'Credit: Setz'
   },
         {
+    file: 'Shakav088_1.jpg',
+    source: 'Credit: Shakav088'
+  },
+          {
     file: 'Shakav088_1.jpg',
     source: 'Credit: Shakav088'
   },
@@ -1464,6 +1516,10 @@ var images = [
     source: 'Credit: SleepDeprivedChicken'
   },
                 {
+    file: 'SmashPro224_1.jpg',
+    source: 'Credit: SmashPro224'
+  },
+                  {
     file: 'SmashPro224_1.jpg',
     source: 'Credit: SmashPro224'
   },
@@ -1539,10 +1595,6 @@ var images = [
     file: 'Sukendo_1.png',
     source: 'Credit: Sukendo'
   },
-                {
-    file: 'SunsetStainedWings2_1.png',
-    source: 'Credit: SunsetStainedWings2'
-  },
                   {
     file: 'SunsetStainedWings2_2.png',
     source: 'Credit: SunsetStainedWings2'
@@ -1600,6 +1652,10 @@ var images = [
     source: 'Credit: TempusSubsisto'
   },
                 {
+    file: 'TheAdorableOshawott (Model ripped by Ziella, made by Nintendo)_1.png',
+    source: 'Credit: TheAdorableOshawott (Model ripped by Ziella, made by Nintendo)'
+  },
+                  {
     file: 'TheAdorableOshawott (Model ripped by Ziella, made by Nintendo)_1.png',
     source: 'Credit: TheAdorableOshawott (Model ripped by Ziella, made by Nintendo)'
   },
@@ -1678,6 +1734,10 @@ var images = [
                     {
     file: 'Twilit-Arawen_4.jpg',
     source: 'Credit: Twilit-Arawen'
+  },  
+  {
+    file: 'Twilit-Arawen_4.jpg',
+    source: 'Credit: Twilit-Arawen'
   },
                     {
     file: 'Twilit-Arawen_5.jpg',
@@ -1739,7 +1799,15 @@ var images = [
     file: 'Unknown_8.png',
     source: 'Credit: unknown - if anyone knows the artist please let us know'
   },
+                          {
+    file: 'Unknown_8.png',
+    source: 'Credit: unknown - if anyone knows the artist please let us know'
+  },
                         {
+    file: 'Unknown_9.png',
+    source: 'Credit: unknown - if anyone knows the artist please let us know'
+  },
+                          {
     file: 'Unknown_9.png',
     source: 'Credit: unknown - if anyone knows the artist please let us know'
   },
@@ -1747,11 +1815,23 @@ var images = [
     file: 'Unknown_10.jpg',
     source: 'Credit: unknown - if anyone knows the artist please let us know'
   },
+                          {
+    file: 'Unknown_10.jpg',
+    source: 'Credit: unknown - if anyone knows the artist please let us know'
+  },
                         {
     file: 'Unknown_11.jpg',
     source: 'Credit: unknown - if anyone knows the artist please let us know'
   },
+                          {
+    file: 'Unknown_11.jpg',
+    source: 'Credit: unknown - if anyone knows the artist please let us know'
+  },
                         {
+    file: 'Unknown_12.png',
+    source: 'Credit: unknown - if anyone knows the artist please let us know'
+  },
+                          {
     file: 'Unknown_12.png',
     source: 'Credit: unknown - if anyone knows the artist please let us know'
   },
@@ -1823,7 +1903,15 @@ var images = [
     file: 'yasaikakiage_15.png',
     source: 'Credit: yasaikakiage'
   },
+                {
+    file: 'yasaikakiage_15.png',
+    source: 'Credit: yasaikakiage'
+  },
               {
+    file: 'yasaikakiage_16.jpg',
+    source: 'Credit: yasaikakiage'
+  },
+                {
     file: 'yasaikakiage_16.jpg',
     source: 'Credit: yasaikakiage'
   },
@@ -1873,10 +1961,6 @@ var images = [
   },
       {
     file: 'Zieghost_2.png',
-    source: 'Credit: Zieghost'
-  },
-      {
-    file: 'Zieghost_4.png',
     source: 'Credit: Zieghost'
   },
       {
@@ -2191,10 +2275,18 @@ var images = [
     file: 'ぬここ_49.jpg',
     source: 'Credit: ぬここ'
   }, 
+          {
+    file: 'ぬここ_49.jpg',
+    source: 'Credit: ぬここ'
+  }, 
         {
     file: 'ぬここ_50.jpg',
     source: 'Credit: ぬここ'
-  },   
+  }, 
+        {
+    file: 'ぬここ_50.jpg',
+    source: 'Credit: ぬここ'
+  },    
       {
     file: 'バイトン_1.png',
     source: 'Credit: バイトン'
@@ -2220,6 +2312,10 @@ var images = [
     source: 'Credit: ブルーマイカ'
   },
         {
+    file: 'ブルーマイカ_17.jpg',
+    source: 'Credit: ブルーマイカ'
+  },
+          {
     file: 'ブルーマイカ_17.jpg',
     source: 'Credit: ブルーマイカ'
   },
@@ -2496,6 +2592,10 @@ var images = [
     source: 'Credit: 鴬瀬'
   },
           {
+    file: '黒井イド (hsv_000)_1.jpg',
+    source: 'Credit: 黒井イド (hsv_000)'
+  },
+            {
     file: '黒井イド (hsv_000)_1.jpg',
     source: 'Credit: 黒井イド (hsv_000)'
   },
