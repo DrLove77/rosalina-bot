@@ -572,7 +572,7 @@ var images = [
     source: 'Credit: GΞО ΞXΞ'
   },
       {
-    file: 'GΞО ΞXΞ_15.png',
+    file: 'GΞО ΞXΞ_15.jpg',
     source: 'Credit: GΞО ΞXΞ'
   },
       {
@@ -853,10 +853,6 @@ var images = [
   },
             {
     file: 'Lady of Link_8.png',
-    source: 'Credit: Lady of Link'
-  },
-            {
-    file: 'Lady of Link_10.png',
     source: 'Credit: Lady of Link'
   },
               {
