@@ -179,10 +179,6 @@ var images = [
     file: 'bowser2queen_1.png',
     source: 'Credit: bowser2queen'
   },
-            {
-    file: 'BradMan267_1.png',
-    source: 'Credit: BradMan267'
-  },
               {
     file: 'Bruzzy_1.png',
     source: 'Credit: Bruzzy'
@@ -572,7 +568,7 @@ var images = [
     source: 'Credit: GΞО ΞXΞ'
   },
       {
-    file: 'GΞО ΞXΞ_15.jpg',
+    file: 'GΞО ΞXΞ_15.jp_g',
     source: 'Credit: GΞО ΞXΞ'
   },
       {
